@@ -1,4 +1,4 @@
-
+https://spool-five.com/rss.xml
 #News
 https://www.artforum.com/rss news
 https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/aponline/rss.xml news
@@ -12,6 +12,7 @@ https://www.irishtimes.com/rss/irish-times-top-10-stories-1.4019566 news
 https://www.reddit.com/r/news/.rss news
 https://www.theatlantic.com/feed/all/ news
 https://www.theatlantic.com/feed/best-of/ news fav
+http://www.newsocialist.org.uk/rss news philosophy
 #Newsletter
 https://feeds.feedburner.com/PepysDiary
 https://anneboyer.substack.com/feed fav
@@ -56,6 +57,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCNvsIonJdJ5E4EXMa65VYpA phi
 https://amalelmohtar.com/feed/ writing
 https://stingingfly.org/feed/ writing
 #Linux and Tech
+https://craphound.com/feed/
 https://pretalx.com/arch-conf-online-2020/schedule/feed.xml linux
 https://suckless.org/atom.xml linux
 https://www.archlinux.org/feeds/news/ linux
