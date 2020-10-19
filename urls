@@ -1,7 +1,5 @@
 https://spool-five.com/rss.xml
 #News
-https://www.artforum.com/rss news
-https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/aponline/rss.xml news
 http://feeds.bbci.co.uk/news/rss.xml?edition=int news
 http://www.ktimes.com/www/rss/rss.xml news fav
 https://en.yna.co.kr/RSS/news.xml news
@@ -13,6 +11,8 @@ https://www.reddit.com/r/news/.rss news
 https://www.theatlantic.com/feed/all/ news
 https://www.theatlantic.com/feed/best-of/ news fav
 http://www.newsocialist.org.uk/rss news philosophy
+https://www.artforum.com/rss news
+https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/aponline/rss.xml news
 #Newsletter
 https://feeds.feedburner.com/PepysDiary
 https://anneboyer.substack.com/feed fav
@@ -46,7 +46,6 @@ https://bluelabyrinths.com/feed/ philosophy
 https://feeds.feedburner.com/typepad/UbBI philosophy
 https://habermas-rawls.blogspot.com/feeds/posts/default?alt=rss philosophy
 https://www.3ammagazine.com/3am/feed/ philosophy
-https://www.3ammagazine.com/3am/feed/ philosophy
 https://www.dailynous.com/feed/ philosophy
 https://www.jamesrwilliams.net/feed/ philosophy fav
 https://www.journal-psychoanalysis.eu/feed/ philosophy
@@ -57,6 +56,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCNvsIonJdJ5E4EXMa65VYpA phi
 https://amalelmohtar.com/feed/ writing
 https://stingingfly.org/feed/ writing
 #Linux and Tech
+https://feeds.feedburner.com/arstechnica/index/
 https://pluralistic.net/feed/
 https://craphound.com/feed/
 https://pretalx.com/arch-conf-online-2020/schedule/feed.xml linux
