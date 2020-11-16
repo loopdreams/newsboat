@@ -1,34 +1,44 @@
-https://spool-five.com/rss.xml
+https://pluralistic.net/feed/ fav
 https://www.theatlantic.com/feed/best-of/ news fav
-https://pluralistic.net/feed/
-https://videos.lukesmith.xyz/feeds/videos.xml?accountId=3 luke
-https://feeds.feedburner.com/arstechnica/index/
+https://videos.lukesmith.xyz/feeds/videos.xml?accountId=3 luke fav
+https://feeds.feedburner.com/arstechnica/index/ fav
 https://pitchfork.com/rss/news/ music fav "~PF News"
 https://boomkat.com/new-releases.rss music fav
 https://aeon.co/feed.rss philosophy fav
+https://anneboyer.substack.com/feed fav
+https://network23.org/ainriail/feed/ climate
+https://efforg.libsyn.com/rss
+https://www.jamesrwilliams.net/feed/ philosophy fav
+#Linux and Tech
+https://suckless.org/atom.xml linux
+https://www.archlinux.org/feeds/news/ linux
+#Philosophy
+https://bluelabyrinths.com/feed/ philosophy
+https://feeds.feedburner.com/typepad/UbBI philosophy
+https://habermas-rawls.blogspot.com/feeds/posts/default?alt=rss philosophy
+https://www.3ammagazine.com/3am/feed/ philosophy
+https://www.journal-psychoanalysis.eu/feed/ philosophy
+https://www.lacan.com/perfumeblog/?feed=rss2 philosophy
+https://www.urbanomic.com/feed/ philosophy
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNvsIonJdJ5E4EXMa65VYpA philosophy
+#Writing
+https://stingingfly.org/feed/ writing
+#Luke Smith
+https://lukesmith.xyz/rss.xml luke
 #Newsletter
 https://feeds.feedburner.com/NakedCapitalism
 https://feeds.feedburner.com/PepysDiary
-https://anneboyer.substack.com/feed fav
 https://nightafternight.substack.com/feed music
 https://toneglow.substack.com/feed music
 https://sfj.substack.com/feed music fav
+http://radiofrance-podcast.net/podcast09/rss_18081.xml music
+https://spool-five.com/rss.xml
 #News
-http://feeds.bbci.co.uk/news/rss.xml?edition=int news
-http://www.ktimes.com/www/rss/rss.xml news fav
-https://en.yna.co.kr/RSS/news.xml news
-https://news.un.org/feed/subscribe/en/news/topic/climate-change/feed/rss.xml news
-https://seculartalk.net/feed/ news
 https://tribunemag.co.uk/feed/ news
-https://www.irishtimes.com/rss/irish-times-top-10-stories-1.4019566 news
-https://www.reddit.com/r/news/.rss news
 https://www.theatlantic.com/feed/all/ news
 http://www.newsocialist.org.uk/rss news philosophy
-https://www.artforum.com/rss news
-https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/aponline/rss.xml news
 https://www.theverge.com/rss/index.xml news
 #Music
-http://radiofrance-podcast.net/podcast09/rss_18081.xml music
 http://schoenblog.com/?feed=rss2 music
 http://soundsignature.net/feed/ music
 http://www.louthcms.org/feed/ music
@@ -41,36 +51,10 @@ https://johncagetrust.blogspot.com/feeds/posts/default music
 https://keithfullertonwhitman.com/news?format=rss music
 https://nialler9.com/news/feed/ music
 https://pitchfork.com/rss/reviews/albums/ music "~PF Albums"
-https://thequietus.com/features.atom music
-https://thequietus.com/feed music
 https://thequietus.com/news?format=atom music fav
 https://thequietus.com/reviews.atom music
 https://www.blacktrufflerecords.com/releases/feed/ music
 https://www.outofyourheadrecords.com/news?format=rss music
-#Philosophy
-https://bluelabyrinths.com/feed/ philosophy
-https://feeds.feedburner.com/typepad/UbBI philosophy
-https://habermas-rawls.blogspot.com/feeds/posts/default?alt=rss philosophy
-https://www.3ammagazine.com/3am/feed/ philosophy
-https://www.dailynous.com/feed/ philosophy
-https://www.jamesrwilliams.net/feed/ philosophy fav
-https://www.journal-psychoanalysis.eu/feed/ philosophy
-https://www.lacan.com/perfumeblog/?feed=rss2 philosophy
-https://www.urbanomic.com/feed/ philosophy
-https://www.youtube.com/feeds/videos.xml?channel_id=UCNvsIonJdJ5E4EXMa65VYpA philosophy
-#Writing
-https://amalelmohtar.com/feed/ writing
-https://stingingfly.org/feed/ writing
-#Linux and Tech
-https://craphound.com/feed/
-https://pretalx.com/arch-conf-online-2020/schedule/feed.xml linux
-https://suckless.org/atom.xml linux
-https://www.archlinux.org/feeds/news/ linux
-https://www.reddit.com/r/linuxupskillchallenge/.rss linux
-#Luke Smith
-https://lukesmith.xyz/rss.xml luke
-https://lukesmith.xyz/youtube.xml luke fav
-https://notrelated.xyz/rss luke
 #games
 https://www.rockpapershotgun.com/feed/ games
 http://number-none.com/blow/blog/feed.xml games
@@ -78,9 +62,3 @@ https://www.raphkoster.com/feed/ games
 #Climate Change
 https://theanarchistlibrary.org/feed
 https://archive.org/services/collection-rss.php?query=john%20zerzan climate
-https://network23.org/ainriail/feed/ climate
-https://climate.nasa.gov/news/rss.xml climate
-https://extinctionrebellion.uk/feed/ climate
-
-https://badfaith.libsyn.com/rss
-https://feeds.feedburner.com/TerminallyIncoherent
