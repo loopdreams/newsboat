@@ -1,15 +1,24 @@
+# Regularly Checked
 https://pluralistic.net/feed/ fav
 https://www.theatlantic.com/feed/best-of/ news fav
-https://videos.lukesmith.xyz/feeds/videos.xml?accountId=3 luke fav
-https://feeds.feedburner.com/arstechnica/index/ fav
+https://davidmenestres.com/feed/podcast/ music fav
 https://pitchfork.com/rss/news/ music fav "~PF News"
-https://boomkat.com/new-releases.rss music fav
+https://lukesmith.xyz/rss.xml luke
+https://feeds.feedburner.com/therestisnoise music fav
 https://aeon.co/feed.rss philosophy fav
+https://www.3ammagazine.com/3am/feed/ philosophy
 https://anneboyer.substack.com/feed fav
 https://sfj.substack.com/feed music fav
 https://network23.org/ainriail/feed/ climate
 https://efforg.libsyn.com/rss
 https://www.jamesrwilliams.net/feed/ philosophy fav
+https://cdn.jwz.org/blog/feed/
+http://www.newsocialist.org.uk/rss news philosophy
+http://ajroach42.com/feed.xml
+https://solar.lowtechmagazine.com/feeds/all-en.atom.xml
+https://100r.co/links/rss.xml
+https://feeds.feedburner.com/arstechnica/index/ fav
+https://spool-five.com/rss.xml
 #Linux and Tech
 https://suckless.org/atom.xml linux
 https://www.archlinux.org/feeds/news/ linux
@@ -17,7 +26,6 @@ https://www.archlinux.org/feeds/news/ linux
 https://bluelabyrinths.com/feed/ philosophy
 https://feeds.feedburner.com/typepad/UbBI philosophy
 https://habermas-rawls.blogspot.com/feeds/posts/default?alt=rss philosophy
-https://www.3ammagazine.com/3am/feed/ philosophy
 https://www.journal-psychoanalysis.eu/feed/ philosophy
 https://www.lacan.com/perfumeblog/?feed=rss2 philosophy
 https://www.urbanomic.com/feed/ philosophy
@@ -25,28 +33,25 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCNvsIonJdJ5E4EXMa65VYpA phi
 #Writing
 https://stingingfly.org/feed/ writing
 #Luke Smith
-https://lukesmith.xyz/rss.xml luke
+https://videos.lukesmith.xyz/feeds/videos.xml?accountId=3 luke fav
 #Newsletter
 https://feeds.feedburner.com/NakedCapitalism
 https://feeds.feedburner.com/PepysDiary
 https://nightafternight.substack.com/feed music
-https://toneglow.substack.com/feed music
 http://radiofrance-podcast.net/podcast09/rss_18081.xml music
-https://spool-five.com/rss.xml
 #News
 https://tribunemag.co.uk/feed/ news
 https://www.theatlantic.com/feed/all/ news
-http://www.newsocialist.org.uk/rss news philosophy
 https://www.theverge.com/rss/index.xml news
 #Music
+https://www.outofyourheadrecords.com/news?format=rss music
 http://schoenblog.com/?feed=rss2 music
 http://soundsignature.net/feed/ music
+https://toneglow.substack.com/feed music
 http://www.louthcms.org/feed/ music
 https://boulezian.blogspot.com/feeds/posts/default?alt=rss music
-https://davidmenestres.com/feed/podcast/ music fav
 https://feeds.feedburner.com/TheClassicalReview music
 https://feeds.feedburner.com/TheWagnerian music
-https://feeds.feedburner.com/therestisnoise music fav
 https://johncagetrust.blogspot.com/feeds/posts/default music
 https://keithfullertonwhitman.com/news?format=rss music
 https://nialler9.com/news/feed/ music
@@ -54,7 +59,6 @@ https://pitchfork.com/rss/reviews/albums/ music "~PF Albums"
 https://thequietus.com/news?format=atom music fav
 https://thequietus.com/reviews.atom music
 https://www.blacktrufflerecords.com/releases/feed/ music
-https://www.outofyourheadrecords.com/news?format=rss music
 #games
 https://www.rockpapershotgun.com/feed/ games
 http://number-none.com/blow/blog/feed.xml games
