@@ -1,11 +1,14 @@
 # Regularly Checked
 https://pluralistic.net/feed/ fav
+https://cosmic.voyage/rss.xml
 https://www.theatlantic.com/feed/best-of/ news fav
 https://davidmenestres.com/feed/podcast/ music fav
 https://pitchfork.com/rss/news/ music fav "~PF News"
 https://lukesmith.xyz/rss.xml luke
 https://feeds.feedburner.com/therestisnoise music fav
 https://aeon.co/feed.rss philosophy fav
+https://inkdroid.org/feed.xml
+https://computer.rip/rss.xml
 https://www.3ammagazine.com/3am/feed/ philosophy
 https://anneboyer.substack.com/feed fav
 https://sfj.substack.com/feed music fav
@@ -13,7 +16,6 @@ https://network23.org/ainriail/feed/ climate
 https://efforg.libsyn.com/rss
 https://www.jamesrwilliams.net/feed/ philosophy fav
 https://cdn.jwz.org/blog/feed/
-http://www.newsocialist.org.uk/rss news philosophy
 http://ajroach42.com/feed.xml
 https://solar.lowtechmagazine.com/feeds/all-en.atom.xml
 https://100r.co/links/rss.xml
@@ -58,7 +60,6 @@ https://nialler9.com/news/feed/ music
 https://pitchfork.com/rss/reviews/albums/ music "~PF Albums"
 https://thequietus.com/news?format=atom music fav
 https://thequietus.com/reviews.atom music
-https://www.blacktrufflerecords.com/releases/feed/ music
 #games
 https://www.rockpapershotgun.com/feed/ games
 http://number-none.com/blow/blog/feed.xml games
